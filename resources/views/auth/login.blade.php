@@ -40,7 +40,7 @@ body{background:linear-gradient(135deg,#dfe7f7,#eef2fb 55%,#e3ebfb);min-height:1
 <div class="kartu-login row g-0">
 
     <div class="col-lg-6 sisi-kiri d-none d-lg-block p-5">
-        <h2 class="judul fs-4 mb-4" style="max-width:21rem;line-height:1.3">Absen kelas jadi lebih cepat, <span class="o">orang tua</span> dan <span class="b">guru</span> selalu terhubung.</h2>
+        <h2 class="judul fs-4 mb-4" style="max-width:21rem;line-height:1.3">Absen kelas jadi lebih cepat iyokahhh, <span class="o">orang tua</span> dan <span class="b">guru</span> selalu terhubung.</h2>
 
         <div class="panggung" aria-hidden="true">
             <div class="hp">
